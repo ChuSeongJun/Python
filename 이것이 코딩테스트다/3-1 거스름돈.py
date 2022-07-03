@@ -9,3 +9,4 @@ for i in coin:
     n %= i
 
 print(result)
+# 
